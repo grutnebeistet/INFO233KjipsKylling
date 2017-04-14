@@ -1,0 +1,4 @@
+CREATE TABLE monsterTable(
+	navn VARCHAR(128) NOT NULL,
+	id  INTEGER NOT NULL PRIMARY KEY   
+)

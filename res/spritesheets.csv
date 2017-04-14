@@ -1,0 +1,5 @@
+name,spritesheet-location,tilesize
+sara,art/Sara.png,64
+player,art/figur.png,64
+tiles,art/tiles.png,64
+monstre,art/monstre.png,64

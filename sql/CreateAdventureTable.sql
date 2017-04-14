@@ -1,0 +1,4 @@
+CREATE TABLE adventureTable(
+		level    INTEGER NOT NULL PRIMARY KEY,
+		name    VARCHAR(128) NOT NULL,
+		file VARCHAR(128) NOT NULL)

@@ -1,0 +1,6 @@
+name,walkable,lethal,sprite-column,sprite-row
+greytile-static,true,false,0,2
+icetile-static,true,false,0,0
+watertile-static,true,true,0,1
+stonetile-static,false,false,0,3
+goaltile-static,true,false,1,2
