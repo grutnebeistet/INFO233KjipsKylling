@@ -1,5 +1,4 @@
-level,name,file
+level,name,file,
 1,The Labyrinth,labyrinth.level,  
-2,ALLAH,allah.level,
-3,Simple Grey,simplegrey.level
-4,Water Park Panic,water-panic.level
+2,Simple Grey,simplegrey.level,
+3,Water Park Panic,water-panic.level,

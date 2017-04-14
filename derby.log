@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Fri Apr 14 15:01:37 EDT 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-015b-6dd7-96bb-000007115ea8 
-on database directory C:\Users\Adrian\Downloads\Kjips Kylling V2\database with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/Adrian/Downloads/Kjips%20Kylling%20V2/lib/derby.jar
+Fri Apr 14 17:43:20 EDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-015b-6e6b-a413-0000070e9d30 
+on database directory C:\Users\Adrian\Documents\GitHub\INFO233_Kjip-s-Kylling\database with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Adrian/Documents/GitHub/INFO233_Kjip-s-Kylling/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_111-b14
-user.dir=C:\Users\Adrian\Downloads\Kjips Kylling V2
+user.dir=C:\Users\Adrian\Documents\GitHub\INFO233_Kjip-s-Kylling
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
